@@ -1,4 +1,5 @@
 # Ansible Inventory Manager [![Build Status](https://travis-ci.org/pgolm/ansible-inventory-manager.png)](https://travis-ci.org/pgolm/ansible-inventory-manager) [![Coverage Status](https://coveralls.io/repos/pgolm/ansible-inventory-manager/badge.png?branch=master)](https://coveralls.io/r/pgolm/ansible-inventory-manager?branch=master)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fpgolm%2Fansible-inventory-manager.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fpgolm%2Fansible-inventory-manager?ref=badge_shield)
 
 A Web UI to manage ansible inventories.
 
@@ -24,3 +25,7 @@ Password: admin
 
 ### Allow user registration
 Set ```config.registration = true``` in *config/application.rb*.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fpgolm%2Fansible-inventory-manager.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fpgolm%2Fansible-inventory-manager?ref=badge_large)
